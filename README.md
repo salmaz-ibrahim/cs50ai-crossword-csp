@@ -101,4 +101,4 @@ This project helped strengthen understanding of:
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 ![Language](https://img.shields.io/badge/language-python-blue)
 ![AI](https://img.shields.io/badge/focus-CSP%20%26%20AI-orange)
-![Course]([https://img.shields.io/badge/cours](https://img.shields.io/badge/cours)
+![Course]([https://img.shields.io/badge/cours])(https://img.shields.io/badge/cours)
